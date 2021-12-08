@@ -9,6 +9,7 @@ requests = "*"
 faker = "*"
 pytest-env = "*"
 allure-pytest = "*"
+jsonpath-rw = "*"
 
 [dev-packages]
 
